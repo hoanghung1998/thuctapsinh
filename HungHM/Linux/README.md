@@ -31,3 +31,6 @@
 - [13.Network Interface ](docs/Linux_tutorial/13.Network_interfaces.md)
 - [14.Network File System ](docs/Linux_tutorial/14.Network_File_System(NFS).md)
 - [15.iSCSI ](docs/Linux_tutorial/15.iSCSI.md)
+- [16.Linux basic security ](docs/Linux_tutorial/16.Linux_basic_security.md)
+- [17.Modify the Command Line Prompt ](docs/Linux_tutorial/17.Modify-the-Command-Line-Prompt.md)
+- [20. Systemd ](docs/Linux_tutorial/20.Systemd.md)
