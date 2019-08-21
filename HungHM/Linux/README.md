@@ -1,19 +1,19 @@
 - [101 Commands](docs/101_commands_linux.md)
-- [Add thêm ổ cúng cho máy](docs/Add-them-o-cung-cho-may.md)
+- [Add thêm ổ cứnng cho máy](docs/Add-them-o-cung-cho-may.md)
 - [Cấu hình hệ thống](docs/Cau-hinh-he-thong.md)
-- [Fisk](docs/Fdisk.md)
+- [Fdisk](docs/Fdisk.md)
 - [Hệ thống tệp Linux](docs/He-thong-tep-Linux.md)
 - [Khởi động hệ thống](docs/Khoi-dong-he-thong.md)
 - [Mount](docs/Mount.md)
 - [Phân Quyền](docs/Phan-Quyen.md)
 - [ Quản lý đĩa và hệ thống file](docs/Quan-ly-dia-va-he-thong-file.md)
 - [Quản lý nhật ký](docs/Quan-ly-nhat-ky.md)
-- [QUản lý phầm mềm và dịch vụ](docs/Quan-ly-phan-mem-va-dich-vuQuan-ly-phan-mem-va-dich-vu.md)
+- [QUản lý phần mềm và dịch vụ](docs/Quan-ly-phan-mem-va-dich-vuQuan-ly-phan-mem-va-dich-vu.md)
 - [Quản lý triến trình](docs/Quan-ly-tien-trinh.md)
 - [Sao lưu dữ liệu](docs/Sao-luu-dulieu.md)
 - [Tài khoản NSD và phân quyền truy cập tệp
 ](docs/Tai-khoan-NSD-va-Phan-quyen.md)
-- [rình Soạn Thảo Vi](docs/Trinh-soan-thao-vi.md)
+- [trình Soạn Thảo Vi](docs/Trinh-soan-thao-vi.md)
 - [Tự động hóa các thao tác](docs/Tu_dong_hoa_cac_thao_tac.md)
 
 ## II. 25 bài linux cơ bản
